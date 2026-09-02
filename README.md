@@ -23,7 +23,7 @@
 
 ---
 
-## 📁 SEO Analyst Projects
+## 📁 Featured Projects
 
 ###  Product Intelligence & Competitive Market Analytics
 **Python • PostgreSQL • SQL • Power BI • DAX**
@@ -72,5 +72,6 @@ Developed 6 interactive Power BI dashboards to track operational KPIs and suppor
 <div align="center">
 
 ✨ Thanks for stopping by!
+Feel free to reach out regarding opportunities, collaborations or discussions.
 
 </div>
