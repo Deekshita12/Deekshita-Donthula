@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:donthuladeekshita@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deekshita-donthula-456a49266/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
-[![Resume](https://img.shields.io/badge/Resume-555555?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1xjXye66kFBOyYZiIxcX7isJYWFXgosOD/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-555555?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Deekshita12/Deekshita-Donthula/blob/main/Resume.pdf)
 
 </div>
 
