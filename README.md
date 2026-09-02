@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:donthuladeekshita@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deekshita-donthula-456a49266/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deekshita12)
-[![Resume](https://img.shields.io/badge/Resume-555555?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/drive/folders/1vCOAH6W2FNVXO_SCTbXbV4FvZo2kuV1r)
+[![Resume](https://img.shields.io/badge/Resume-555555?style=flat-square&logo=adobeacrobatreader&logoColor=white)]([https://drive.google.com/drive/folders/1vCOAH6W2FNVXO_SCTbXbV4FvZo2kuV1r](https://drive.google.com/drive/folders/1vCOAH6W2FNVXO_SCTbXbV4FvZo2kuV1r))
 
 </div>
 
